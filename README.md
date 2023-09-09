@@ -63,11 +63,11 @@ Clusters galore! Each cluster unveils a story, a pattern, binding similar review
 
 🎨 A picture is worth a thousand words:
 
-![image](https://github.com/DhruvSTrivedi/Hierarchical-Clustering-Analysis-on-Product-Reviews/assets/143839140/2032bda0-dca5-4f9f-bc17-0906cccb4f3e)
+![image](IMAG/CLUST.png)
 
+---
 
-
-![image](https://github.com/DhruvSTrivedi/Hierarchical-Clustering-Analysis-on-Product-Reviews/assets/143839140/4134a859-63f6-4f2a-8432-0d2865372c2c)
+![image](IMAG/DANDO.png)
 
 
 

@@ -10,7 +10,6 @@
 4. [✨ Results](#results)
 5. [🖼 Visualization](#visualization)
 6. [🔚 Conclusion](#conclusion)
-7. [🚀 Running the Code](#running-the-code)
 
 ---
 

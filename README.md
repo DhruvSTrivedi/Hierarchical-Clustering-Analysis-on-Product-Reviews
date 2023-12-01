@@ -106,16 +106,3 @@ This hierarchical clustering analysis isn't just about data; it's a compass poin
 
 ---
 
-### 🚀 Running the Code
-
-Get started:
-1. Enter the portal:
-   ```
-   cd path-to-your-directory
-   ```
-2. Let the scripts run wild:
-   ```
-   python main.py
-   ```
-
----

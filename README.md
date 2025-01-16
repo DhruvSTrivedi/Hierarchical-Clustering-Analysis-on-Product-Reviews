@@ -1,15 +1,13 @@
----
-
 # 📊 Hierarchical Clustering Analysis on Product Reviews
 
 ### 📌 Table of Contents
 
-1. [🌟 Introduction](#introduction)
-2. [📂 Data Description](#data-description)
-3. [🔍 Methodology](#methodology)
-4. [✨ Results](#results)
-5. [🖼 Visualization](#visualization)
-6. [🔚 Conclusion](#conclusion)
+1. [🌟 Introduction](#🌟-introduction)
+2. [📂 Data Description](#📂-data-description)
+3. [🔍 Methodology](#🔍-methodology)
+4. [✨ Results](#✨-results)
+5. [🖼 Visualization](#🖼-visualization)
+6. [🔚 Conclusion](#🔚-conclusion)
 
 ---
 
@@ -23,7 +21,7 @@ Dive into the world of product reviews! By applying hierarchical clustering to t
 
 Peek into the dataset's core:
 
-- **Product ID**: 🏷 Identifier for each unique product.
+- **Product ID**: 📛 Identifier for each unique product.
 - **Title**: 📜 The product's title.
 - **User ID**: 👤 Unique identifier for reviewers.
 - **Helpfulness**: 👍 A ratio indicating how helpful others found the review.
@@ -62,20 +60,15 @@ Clusters galore! Each cluster unveils a story, a pattern, binding similar review
 
 🎨 A picture is worth a thousand words:
 
-![image](IMAG/CLUST.png)
+![Cluster Visualization](IMAG/CLUST.png)
 
----
-
-![image](IMAG/DANDO.png)
-
-
+![Dendrogram](IMAG/DANDO.png)
 
 ---
 
 ### 🔚 Conclusion
----
 
-**Business-Centric Conclusion**
+#### **Business-Centric Conclusion**
 
 In the dynamic world of product-based businesses, understanding customer feedback is paramount. Through our analysis, we delved deep into product reviews using hierarchical clustering, and the findings hold significant implications for business leaders and marketers.
 
